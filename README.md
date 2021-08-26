@@ -1,3 +1,5 @@
+soon tm
+
 # Dropz
 ![](https://github.com/LazuriteMC/Dropz/raw/main/src/main/resources/assets/dropz/icon.png)
 
